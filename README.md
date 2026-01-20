@@ -44,7 +44,7 @@ The MPU6050 communicates via I2C.
 ## How to Run
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/BrandonMayer1/Embedded-TinyML-Fan-Vibration-Sensor.git
     ```
 2.  **Install Dependencies:**
     * Install the ESP32 Board Manager in Arduino IDE.
